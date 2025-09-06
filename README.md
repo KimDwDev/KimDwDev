@@ -58,16 +58,17 @@
 ## 🧩 백준 · GitHub 통계
 <p align="center">
   <!-- BOJ -->
-  <a href="https://solved.ac/profile/naxtto" target="_blank">
+  <a href="https://solved.ac/profile/naxtto" target="_blank" rel="noopener noreferrer">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=naxtto" alt="Solved.ac Profile"/>
   </a>
   <br/>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&v=2" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=2" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=KimDwDev&theme=transparent&hide_border=true&v=2" alt="GitHub Streak"/>
+  <!-- GitHub Stats (GitHub 로고 제거: rank_icon 제거) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&v=3" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=3" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=KimDwDev&theme=transparent&hide_border=true&v=3" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
