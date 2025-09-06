@@ -73,11 +73,12 @@
 
 ## 🧪 개발 프로젝트
 
-### 1. schoolLog 학생 관리 페이지
+### 1. schoolLog 학생 관리 플랫폼
 
-### 2. codeTutor 코드 교육 페이지 
+### 2. codeTutor 코드 교육 플랫폼
 
 ### 3. 문장 요약, 문장 생성 LLM 
 
+### 4. chatbot 상담 플랫폼
 
 
