@@ -54,15 +54,16 @@
 ---
 
 ## 🧩 백준 · GitHub 통계
-<!-- BOJ_ID와 GitHub USERNAME을 바꿔주세요 -->
-<p>
+<p align="center">
   <!-- Baekjoon solved.ac 티어 배지 -->
   <a href="https://solved.ac/profile/naxtto" target="_blank">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=BOJ_ID" alt="Solved.ac Profile"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=naxtto" alt="Solved.ac Profile"/>
   </a>
-  <!-- 문제 풀이 현황 카드 -->
+
+  <!-- GitHub 통계 카드 -->
   <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&hide_rank=false" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact" alt="Top Langs"/>
+
   <!-- 커밋 스트릭 -->
   <img src="https://streak-stats.demolab.com?user=KimDwDev" alt="GitHub Streak"/>
 </p>
