@@ -2,7 +2,6 @@
 <h1 align="center">안녕하세요, 저는 김동완 입니다 👋</h1>
 <p align="center">
   프로가 되고 싶은 백엔드 개발 지망생 입니다.<br/>
-  <em>Clean Architecture · Node.js · CS Fundamentals · 알고리즘</em>
 </p>
 
 ---
