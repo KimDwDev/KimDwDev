@@ -56,40 +56,19 @@
 ---
 
 ## 🧩 백준 · GitHub 통계
-<div align="center">
-  <!-- BOJ -->
-  <a href="https://solved.ac/profile/naxtto" target="_blank" rel="noopener noreferrer">
+<p align="center">
+  <!-- Baekjoon solved.ac 티어 배지 -->
+  <a href="https://solved.ac/profile/naxtto" target="_blank">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=naxtto" alt="Solved.ac Profile"/>
   </a>
 
-  <!-- Grid -->
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <!-- GitHub Stats -->
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=transparent&hide_border=true&v=4"
-          alt="GitHub Stats" width="440" />
-      </td>
-      <td align="center" valign="top">
-        <!-- Streak -->
-        <img
-          src="https://streak-stats.demolab.com?user=KimDwDev&theme=transparent&hide_border=true&card_width=440&v=4"
-          alt="GitHub Streak" width="440" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Top Languages -->
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=4"
-          alt="Top Langs" width="900" />
-      </td>
-    </tr>
-  </table>
-</div>
+  <!-- GitHub 통계 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&hide_rank=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact" alt="Top Langs"/>
 
-
+  <!-- 커밋 스트릭 -->
+  <img src="https://streak-stats.demolab.com?user=KimDwDev" alt="GitHub Streak"/>
+</p>
 ---
 
 ## 🧪 개발 프로젝트
