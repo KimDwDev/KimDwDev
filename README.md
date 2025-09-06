@@ -40,7 +40,10 @@
 
 <!-- Cloud -->
 <p>
-  <img src="https://img.shields.io/badge/Amazon%20S3-000?logo=amazons3" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/AWS-EC2-000?logo=amazonaws" alt="Amazon EC2"/>
+  <img src="https://img.shields.io/badge/AWS-S3-000?logo=amazonaws" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/AWS-VPC-000?logo=amazonaws" alt="Amazon VPC"/>
+  <img src="https://img.shields.io/badge/AWS-RDS-000?logo=amazonaws" alt="Amazon RDS"/>
 </p>
 
 <!-- Frontend -->
