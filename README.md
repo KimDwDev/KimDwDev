@@ -64,7 +64,7 @@
   <br/>
 
   <!-- GitHub Stats (GitHub 로고 제거: rank_icon 제거) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&v=3" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=transparent&hide_border=true&v=3" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact&langs_count=8&theme=transparent&hide_border=true&v=3" alt="Top Langs"/>
   <img src="https://streak-stats.demolab.com?user=KimDwDev&theme=transparent&hide_border=true&v=3" alt="GitHub Streak"/>
 </p>
