@@ -1,16 +1,76 @@
-<h1 align="center">Hi 👋, Dongwan Kim</h1>
-
+<!-- 인사 -->
+<h1 align="center">안녕하세요, 저는 김동완 입니다 👋</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KimDwDev&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  프로가 되고 싶은 백엔드 개발 지망생 입니다.<br/>
+  <em>Clean Architecture · Node.js · CS Fundamentals · 알고리즘</em>
 </p>
 
+---
 
-<h2>🛠 Tech Stack</h2>
-<ul>
-  <li>Languages: JavaScript, TypeScript, Python, C++, Golang</li>
-  <li>Frameworks: React, Node.js, Nest.js, Django, Gin</li>
-  <li>Databases: MySQL, PostgreSQL</li>
-  <li>Tools: Git, Docker, AWS, VS Code</li>
-</ul>
+## 👤 소개
+- 🎓 현재: NAVER BoostCamp Web | Membership 과정 진행 중
+- 💼 관심사: 웹/앱 아키텍처, 테스트, 성능/확장성, 설계 
+- 🧠 학습 중: Node.js 심화, MySQL/인덱싱, 운영/배포, C++ 알고리즘, 
+- ✍️ 기록:[블로그](https://kimdwan-dev.blogspot.com/)
+- 📫 연락: dongwan123456789@gmail.com
 
 ---
+
+## 🧰 개발 스택
+<!-- Languages -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-4%2B-000?logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-17-000?logo=c%2B%2B" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3.11-000?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-1.22-000?logo=go" alt="Go"/>
+</p>
+
+<!-- Backend / Infra -->
+<p>
+  <img src="https://img.shields.io/badge/Node.js-18%2B-000?logo=nodedotjs" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000?logo=express" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-000?logo=nestjs" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Django-000?logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/Gin-000?logo=go" alt="Gin"/>
+  <img src="https://img.shields.io/badge/Redis-000?logo=redis" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-000?logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-000?logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-000?logo=nginx" alt="Nginx"/>
+</p>
+
+<!-- Cloud -->
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20S3-000?logo=amazons3" alt="Amazon S3"/>
+</p>
+
+<!-- Frontend -->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-000?logo=react" alt="React"/>
+</p>
+
+---
+
+## 🧩 백준 · GitHub 통계
+<!-- BOJ_ID와 GitHub USERNAME을 바꿔주세요 -->
+<p>
+  <!-- Baekjoon solved.ac 티어 배지 -->
+  <a href="https://solved.ac/profile/naxtto" target="_blank">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=BOJ_ID" alt="Solved.ac Profile"/>
+  </a>
+  <!-- 문제 풀이 현황 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&hide_rank=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact" alt="Top Langs"/>
+  <!-- 커밋 스트릭 -->
+  <img src="https://streak-stats.demolab.com?user=KimDwDev" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🧪 개발 프로젝트
+<!-- 대표 프로젝트 3~6개 정도를 추천합니다. -->
+| 프로젝트 | 설명 | 주요 스택 | 링크 |
+|---|---|---|---|
+| Codestagram | 소셜 미디어형 게시 시스템. Clean Architecture로 Domain·Application·Infrastructure·Presentation 계층 분리 | Node.js, Express, MySQL, EJS, AWS S3, JWT | [Repo](PLACEHOLDER_LINK) · [Demo](PLAC)_)
