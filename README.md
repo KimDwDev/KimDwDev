@@ -70,7 +70,17 @@
 ---
 
 ## 🧪 개발 프로젝트
-<!-- 대표 프로젝트 3~6개 정도를 추천합니다. -->
-| 프로젝트 | 설명 | 주요 스택 | 링크 |
-|---|---|---|---|
-| Codestagram | 소셜 미디어형 게시 시스템. Clean Architecture로 Domain·Application·Infrastructure·Presentation 계층 분리 | Node.js, Express, MySQL, EJS, AWS S3, JWT | [Repo](PLACEHOLDER_LINK) · [Demo](PLAC)_)
+
+### 1. schoolLog 학생 관리 페이지
+
+링크: 
+
+### 2. codeTutor 코드 교육 페이지 
+
+링크: 
+
+### 3. 문장 요약, 문장 생성 LLM 
+
+링크: 
+
+
