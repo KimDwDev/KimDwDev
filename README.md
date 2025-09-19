@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact" alt="Top Langs"/>
 
   <!-- 커밋 스트릭 -->
-  <img src="https://streak-stats.demolab.com?user=KimDwDev" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=KimDwDev&cache_bust=20250919" alt="GitHub Streak"/>
 </p>
 ---
 
