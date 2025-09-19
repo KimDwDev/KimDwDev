@@ -65,8 +65,8 @@
   </a>
 
   <!-- GitHub 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&hide_rank=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KimDwDev&show_icons=true&hide_rank=false&v=1" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimDwDev&layout=compact&v=1" alt="Top Langs"/>
 
   <!-- 커밋 스트릭 -->
   <img src="https://streak-stats.demolab.com?user=KimDwDev" alt="GitHub Streak"/>
