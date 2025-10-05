@@ -107,14 +107,20 @@
 </details>
 
 
-## 🧪 개발 프로젝트
+## 📌 Featured Projects
 
-### 1. schoolLog 학생 관리 플랫폼
+- 🚀 [**schoolLog**](https://github.com/KimDwDev/web-p2-issue-tracker)  
+  schoolLog 학생 관리 플랫폼
 
-### 2. codeTutor 코드 교육 플랫폼
+- 🚀 [**codeTutor**](https://github.com/KimDwDev/web-p3-codestargram2)  
+  codeTutor 코드 교육 플랫폼
 
-### 3. 문장 요약, 문장 생성 LLM 
+- 🚀 [**chatbot**](https://github.com/KimDwDev/web-p3-codestargram2)  
+  chatbot 상담 플랫폼
+  
+- 🚀 [**LLM**](https://github.com/KimDwDev/web-p3-codestargram2)  
+  문장 요약, 문장 생성 LLM 
 
-### 4. chatbot 상담 플랫폼
+
 
 
