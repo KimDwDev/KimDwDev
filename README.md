@@ -109,16 +109,16 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [**schoolLog**](https://github.com/KimDwDev/web-p2-issue-tracker)  
+- 🚀 [**schoolLog**](https://github.com/KimDwDev/studentlog)  
   schoolLog 학생 관리 플랫폼
 
-- 🚀 [**codeTutor**](https://github.com/KimDwDev/web-p3-codestargram2)  
+- 🚀 [**codeTutor**](https://github.com/KimDwDev/codesync)  
   codeTutor 코드 교육 플랫폼
 
-- 🚀 [**chatbot**](https://github.com/KimDwDev/web-p3-codestargram2)  
+- 🚀 [**chatbot**](https://github.com/KimDwDev/chatbot)  
   chatbot 상담 플랫폼
   
-- 🚀 [**LLM**](https://github.com/KimDwDev/web-p3-codestargram2)  
+- 🚀 [**LLM**](https://huggingface.co/kimdwan)  
   문장 요약, 문장 생성 LLM 
 
 
