@@ -107,6 +107,7 @@
   <img width="511" height="723" alt="image" src="https://github.com/user-attachments/assets/211291ec-e5b0-4eab-9116-2c2bd5481dc7" />
 </details>
 
+---
 
 ## 📌 Featured Projects
 
