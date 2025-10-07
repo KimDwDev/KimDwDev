@@ -91,7 +91,6 @@
   <img width="595" height="801" alt="산림공공 빅데이터 활용 경진대회 장려상 상장" src="https://github.com/user-attachments/assets/18eb7544-724f-4e29-b7e0-27ee6f78c54c" />
 </details>
 
----
 
 ### 2) AI 데이터 플랫폼 국비지원 과정 — 최우수상
 <p>
