@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Gin-000?logo=go" alt="Gin"/>
   <img src="https://img.shields.io/badge/Redis-000?logo=redis" alt="Redis"/>
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Kafka-000?logo=apachekafka" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Nginx-000?logo=nginx" alt="Nginx"/>
 </p>
@@ -46,6 +48,7 @@
   <img src="https://img.shields.io/badge/AWS-S3-000?logo=amazonaws" alt="Amazon S3"/>
   <img src="https://img.shields.io/badge/AWS-VPC-000?logo=amazonaws" alt="Amazon VPC"/>
   <img src="https://img.shields.io/badge/AWS-RDS-000?logo=amazonaws" alt="Amazon RDS"/>
+  <img src="https://img.shields.io/badge/Naver_Cloud-000?logo=naver" alt="Naver Cloud"/>
 </p>
 
 <!-- Frontend -->
