@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/badge/Kafka-000?logo=apachekafka" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Docker-000?logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Nginx-000?logo=nginx" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Prometheus-000?logo=prometheus" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-000?logo=grafana" alt="Grafana"/>
 </p>
 
 <!-- Cloud -->
