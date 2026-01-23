@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Prometheus-000?logo=prometheus" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-000?logo=grafana" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Kubernetes-000?logo=kubernetes" alt="Kubernetes"/>
 </p>
 
 <!-- Cloud -->
