@@ -117,6 +117,9 @@
 
 ## 📌 Featured Projects
 
+- 🚀 [**devmeet**](https://github.com/boostcampwm2025/web03-devmeet)  
+  개발자를 위한 화상 회의 플랫폼
+
 - 🚀 [**schoolLog**](https://github.com/KimDwDev/studentlog)  
   schoolLog 학생 관리 플랫폼
 
