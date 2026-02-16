@@ -90,35 +90,16 @@
 
 ### 💼 BNVSolution Co., Ltd. (2023.08 ~ 2024.10)
 - Backend Developer
+- REST API 설계 및 서버 개발
 
-### AI 데이터 플랫폼 국비지원 과정 — 최우수상 (2023.06)
-<p>
-  <img src="https://img.shields.io/badge/수상-최우수상-brightgreen?style=flat-square" alt="최우수상 배지" />
-  <img src="https://img.shields.io/badge/일자-2023.06-999?style=flat-square" alt="2023.06 배지" />
-  <img src="https://img.shields.io/badge/분야-AI%20Platform-2563eb?style=flat-square" alt="AI Platform 배지" />
-</p>
-
+### 🏅 AI 데이터 플랫폼 국비지원 과정 — 최우수상 (2023.06)
+- Team Leader
 - 머신러닝 파이프라인·데이터 전처리·모델 서빙 프로젝트 우수 성과
 
-<details>
-  <summary>📜 상장 보기</summary>
-  <img width="511" height="723" alt="image" src="https://github.com/user-attachments/assets/211291ec-e5b0-4eab-9116-2c2bd5481dc7" />
-</details>
-
-### 산림공공 빅데이터 활용 경진대회 — 장려상 (2022.08)
-<p>
-  <img src="https://img.shields.io/badge/수상-장려상-orange?style=flat-square" alt="장려상 배지" />
-  <img src="https://img.shields.io/badge/일자-2022.08-999?style=flat-square" alt="2022.08 배지" />
-  <img src="https://img.shields.io/badge/분야-Big%20Data-0f766e?style=flat-square" alt="Big Data 배지" />
-</p>
-
+### 🏅 산림공공 빅데이터 활용 경진대회 — 장려상 (2022.08)
+- Team Leader
 - 산림청/공공 데이터 활용 아이디어 및 분석 부문 참여  
-- 데이터 기반 문제 해결 및 시각화 결과물 제출
-
-<details>
-  <summary>📜 상장 보기</summary>
-  <img width="595" height="801" alt="산림공공 빅데이터 활용 경진대회 장려상 상장" src="https://github.com/user-attachments/assets/18eb7544-724f-4e29-b7e0-27ee6f78c54c" />
-</details>
+- 데이터 기반 문제 정의 및 시각화 분석 수행
 
 ---
 
