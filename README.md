@@ -1,5 +1,5 @@
 <!-- 인사 -->
-<h1 align="center">안녕하세요, 김동완입니다 👋</h1>
+<h1 align="center">안녕하세요, 백엔드 개발자 김동완입니다 👋</h1>
 <p align="center">
   분산 시스템과 인프라 설계를 기반으로 문제를 해결하는 개발자입니다.<br/>
   Kubernetes 기반 MSA 구조 설계 및 GitOps 배포 자동화를 경험했으며,<br/>
@@ -9,10 +9,10 @@
 ---
 
 ## 👤 소개
-- 🎓 현재: NAVER BoostCamp Web | Membership 과정 수료
-- 🏗 관심 분야: 분산 시스템 아키텍처, Kubernetes 기반 인프라 설계, 성능 최적화
-- 📊 경험: GitOps(ArgoCD) 기반 배포 자동화, Redis 동시성 제어, Prometheus 모니터링
-- 🧠 학습 확장: 시스템 설계, MySQL 최적화, 운영/배포 전략, C++ 알고리즘
+- 🎓 현재: SW 마에스트로 부산 과정 진행중
+- 🏗 관심 분야: MSA 아키텍처, Kubernetes 기반 인프라 설계, 모니터링, 대규모 트래픽 제어
+- 📊 경험: GitOps(ArgoCD) 기반 배포 자동화, Redis 동시성 제어, Prometheus 모니터링, Kubernetes 기반 인프라 설계, 성능 최적화
+- 🧠 학습 확장: 시스템 설계, MySQL 최적화, 운영/배포 전략, C++ 알고리즘, Java/Kotlin Spring Boot, 모니터링 및 트래픽 제어
 - ✍️ 기록:[블로그](https://kimdwan-dev.blogspot.com/)
 - 📫 연락: dongwan123456789@gmail.com
 
