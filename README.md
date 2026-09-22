@@ -21,7 +21,8 @@
 ## 🧰 개발 스택
 <!-- Languages -->
 <p>
-  <img src="https://img.shields.io/badge/Java-21-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iMiIgeT0iMTkiIGZvbnQtc2l6ZT0iMjAiPuKYlTwvdGV4dD48L3N2Zz4=" alt="Java"/>  <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-21-000" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-4%2B-000?logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-17-000?logo=c%2B%2B" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3.11-000?logo=python" alt="Python"/>
