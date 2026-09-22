@@ -22,6 +22,7 @@
 <!-- Languages -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
+  <img src="https://img.shields.io/badge/Java-21-000" alt="Java 21"/>  
   <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-4%2B-000?logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-17-000?logo=c%2B%2B" alt="C++"/>
