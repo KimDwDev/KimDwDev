@@ -21,8 +21,7 @@
 ## 🧰 개발 스택
 <!-- Languages -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="28" height="28"/>
-  <img src="https://img.shields.io/badge/Java-21-000" alt="Java 21"/>  
+  <img src="https://img.shields.io/badge/Java-21-000?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBzdHJva2U9IiNmODk4MjAiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTE4IDJjNSA1LTEwIDYtMyAxMU0yMyA2Yy05IDQtMyA1LTUgOCIvPjxwYXRoIHN0cm9rZT0iIzUzODJhMSIgc3Ryb2tlLXdpZHRoPSIyIiBkPSJNNyAxNmMwIDEzIDE1IDEzIDE1IDBNMjIgMTdjOS0zIDcgNiAxIDZNNyAxNmMzIDIgMTIgMiAxNSAwTTQgMjZjLTUgNCAyNSA1IDI0IDBNOCAzMGgxNSIvPjwvZz48L3N2Zz4%3D" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-4%2B-000?logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-17-000?logo=c%2B%2B" alt="C++"/>
