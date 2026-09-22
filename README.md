@@ -21,6 +21,7 @@
 ## 🧰 개발 스택
 <!-- Languages -->
 <p>
+  <img src="https://img.shields.io/badge/Java-21-000?logo=openjdk" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-ES202x-000?logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-4%2B-000?logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C%2B%2B-17-000?logo=c%2B%2B" alt="C++"/>
@@ -30,6 +31,7 @@
 
 <!-- Backend / Infra -->
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-000?logo=springboot" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Node.js-18%2B-000?logo=nodedotjs" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000?logo=express" alt="Express"/>
   <img src="https://img.shields.io/badge/NestJS-000?logo=nestjs" alt="NestJS"/>
